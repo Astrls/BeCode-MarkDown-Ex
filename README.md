@@ -19,10 +19,12 @@ _Becoming a full stack developer to offer my services to cultural and indie musi
 
 **My fears**
  > Lacking the time to finish my projects
+
  > Not finding an internship
  
 **I look forward to**
  > Being able to code an entire program/app/website
+ 
  > Navigating the console like I'm Captain Ahab
  
  **3 things I value the most in teamwork**
